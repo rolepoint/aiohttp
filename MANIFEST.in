@@ -11,7 +11,7 @@ global-exclude *.pyc
 exclude aiohttp/_multidict.html
 exclude aiohttp/_multidict.*.so
 exclude aiohttp/_multidict.pyd
-exclude aiohttp/_multidict.*.pyd
+exclude aiohtdtp/_multidict.*.pyd
 exclude aiohttp/_websocket.html
 exclude aiohttp/_websocket.*.so
 exclude aiohttp/_websocket.pyd
